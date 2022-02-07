@@ -2,7 +2,7 @@
 
 # Bayesian Classifier Fusion with an Explicit Model of Correlation
 
-This repository is the official implementation of the paper "Bayesian Classifier Fusion with an Explicit Model of Correlation", published at AISTATS 2022. 
+This repository is the official implementation of the paper "Bayesian Classifier Fusion with an Explicit Model of Correlation" by Susanne Trick and Constantin A. Rothkopf, published at AISTATS 2022. 
 
 We introduce a hierarchical Bayesian model for the fusion of correlated probabilistic classifiers based on a new correlated Dirichlet distribution. 
 
