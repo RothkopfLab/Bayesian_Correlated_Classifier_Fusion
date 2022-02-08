@@ -11,7 +11,7 @@ We introduce a hierarchical Bayesian model for the fusion of correlated probabil
 
 ## Requirements
 
-The provided code runs on Ubuntu 16.04/18.04 with Python 2.7.12.
+The provided code runs on Ubuntu 16.04/18.04 with Python 2.7.18.
 
 To install required packages type:
 
@@ -21,6 +21,7 @@ sudo apt-get install jags
 tested with versions 4.3.0-3xenial2 on Ubuntu 16.04, 4.3.0-1 on Ubuntu 18.04, and
 
 ```setup_pip
+pip install numpy==1.16.0
 pip install -r requirements.txt
 ```
 
