@@ -1,4 +1,3 @@
-numpy==1.16.0
 matplotlib==2.2.3
 scipy==1.2.0
 pyjags==1.2.2
